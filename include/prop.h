@@ -1,7 +1,7 @@
 #ifndef PROP_H
 #define PROP_H
 
-#include <ultra64.h>
+#include <libultra.h>
 
 #include "structs.h"
 #include "core2/animctrl.h"

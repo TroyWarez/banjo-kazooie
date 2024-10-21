@@ -1,6 +1,6 @@
 #ifndef __MODEL_H__
 #define __MODEL_H__
-#include <ultra64.h>
+#include <libultra.h>
 
 typedef struct {
     Vtx v;

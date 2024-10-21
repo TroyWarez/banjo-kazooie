@@ -3,6 +3,7 @@
 
 #define ENTRY_STACK_LEN 0x2000
 #define ENTRY_STACK_LEN_U64 (ENTRY_STACK_LEN / sizeof(u64))
+#define PI_STATUS_DMA_BUSY ( 1 << 0 )
 
 u64 gEntryStack[ENTRY_STACK_LEN_U64];
 

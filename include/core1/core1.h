@@ -1,7 +1,7 @@
 #ifndef BANJO_KAZOOIE_CORE1_CORE1_H
 #define BANJO_KAZOOIE_CORE1_CORE1_H
 
-#include <ultra64.h>
+#include <libultra.h>
 #include "bool.h"
 #include "enums.h"
 #include "structs.h"

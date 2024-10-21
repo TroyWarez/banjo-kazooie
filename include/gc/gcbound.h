@@ -1,6 +1,6 @@
 #ifndef GCBOUND_H
 #define GCBOUND_H
-#include <ultra64.h>
+#include <libultra.h>
 
 #include "structs.h"
 

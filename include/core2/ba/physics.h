@@ -1,7 +1,7 @@
 #ifndef __BA_PHYSICS_H__
 #define __BA_PHYSICS_H__
 
-#include <ultra64.h>
+#include <libultra.h>
 
 typedef enum ba_physics_type_e{
     BA_PHYSICS_NONE,

@@ -31,7 +31,7 @@
 #ifndef __sched__
 #define __sched__
 
-#include <ultra64.h>
+#include <libultra.h>
 
 #define OS_SC_STACKSIZE      0x2000
 

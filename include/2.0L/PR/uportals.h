@@ -33,7 +33,7 @@
 #ifndef __ULTRAPORTALS_H__
 #define __ULTRAPORTALS_H__
 
-#include <ultra64.h>
+#include <libultra.h>
 #include "matrix.h"
 #include "vector.h"
 

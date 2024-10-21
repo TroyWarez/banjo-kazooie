@@ -1,7 +1,7 @@
 #ifndef BANJO_KAZOOIE_FILE_H
 #define BANJO_KAZOOIE_FILE_H
 
-#include <ultra64.h>
+#include <libultra.h>
 #include <bool.h> // for bool
 #include <enums.h> // for enum asset_e, enum map_e 
 

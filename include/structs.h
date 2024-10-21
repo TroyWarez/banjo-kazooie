@@ -1,7 +1,7 @@
 #ifndef STRUCTS_H
 #define STRUCTS_H
 
-#include <ultra64.h>
+#include <libultra.h>
 #include "model.h"
 #include "core2/vla.h"
 #include "enums.h"
