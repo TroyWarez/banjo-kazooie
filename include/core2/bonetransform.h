@@ -1,6 +1,6 @@
 #ifndef _BONE_TRANSFORMATION_H_
 #define _BONE_TRANSFORMATION_H_
-#include <ultratypes.h>
+#include<libultra/abi.h>
 
 typedef struct {
     f32 unk0[4];
