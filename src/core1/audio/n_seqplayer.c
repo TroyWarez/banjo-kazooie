@@ -1,4 +1,4 @@
-#include <ultra64.h>
+#include <libultra.h>
 #include "n_libaudio.h"
 #include "n_synth.h"
 #include "file_and_line.h"

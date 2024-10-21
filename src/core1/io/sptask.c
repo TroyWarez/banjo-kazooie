@@ -1,4 +1,4 @@
-#include <ultra64.h>
+#include <libultra.h>
 
 #define _osVirtualToPhysical(ptr)               \
 	if (ptr != NULL)                            \

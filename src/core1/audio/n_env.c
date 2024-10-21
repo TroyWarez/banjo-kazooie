@@ -1,4 +1,4 @@
-#include <ultra64.h>
+#include <libultra.h>
 #include "n_synth.h"
 #include "functions.h"
 #include "variables.h"

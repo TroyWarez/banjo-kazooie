@@ -1,4 +1,4 @@
-#include <ultra64.h>
+#include <libultra.h>
 #include "piint.h"
 
 void __osDevMgrMain(void *args)

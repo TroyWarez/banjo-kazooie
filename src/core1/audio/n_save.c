@@ -1,4 +1,4 @@
-#include <ultra64.h>
+#include <libultra.h>
 #include "n_synth.h"
 
 Acmd *n_alSavePull( s32 sampleOffset, Acmd *p) 

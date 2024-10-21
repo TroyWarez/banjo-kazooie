@@ -1,7 +1,7 @@
 #ifndef CORE2_B6EA0_H
 #define CORE2_B6EA0_H
 
-#include <ultra64.h>
+#include <libultra.h>
 #include "functions.h"
 #include "variables.h"
 #include "core2/anim/sprite.h"

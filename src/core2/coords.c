@@ -1,4 +1,4 @@
-#include <ultra64.h>
+#include <libultra.h>
 #include "bool.h"
 
 void coords_copy(s32 min_out[3], s32 max_out[3], s32 min_in[3], s32 max_in[3]) {

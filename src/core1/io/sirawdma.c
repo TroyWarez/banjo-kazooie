@@ -1,4 +1,4 @@
-#include <ultra64.h>
+#include <libultra.h>
 
 s32 __osSiRawStartDma(s32 direction, void *dramAddr)
 {

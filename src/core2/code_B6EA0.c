@@ -1,5 +1,5 @@
 #include "code_B6EA0.h"
-#include <ultra64.h>
+#include <libultra.h>
 #include "functions.h"
 #include "variables.h"
 
