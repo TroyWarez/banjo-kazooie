@@ -27,7 +27,10 @@ tools/bk_crc/bk_crc
 mod/
 mod/*
 
-
+# PC Port folder
+Banjo-Kazooie-pc/*
+*.sln
+.vs/
 #compiled object files
 *.slo
 *.lo
